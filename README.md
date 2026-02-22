@@ -74,7 +74,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Add ML-based image similarity scoring  
 - Implement embedding-based recommendation  
@@ -84,7 +84,7 @@ streamlit run app.py
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Avantika Gurav**  
 B.Tech Information Technology  
