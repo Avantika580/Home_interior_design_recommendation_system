@@ -74,15 +74,18 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## future Enhancements
-Add ML-based image similarity scoring
-Implement embedding-based recommendation
-Add user session memory
-Expand dataset to 1000+ images
-Introduce backend API layer (FastAPI)
+## 🚀 Future Enhancements
 
-## Author
+- Add ML-based image similarity scoring  
+- Implement embedding-based recommendation  
+- Add user session memory  
+- Expand dataset to 1000+ images  
+- Introduce backend API layer (FastAPI)  
 
-Avantika Gurav
-B.Tech Information Technology
-Pune, India
+---
+
+## 👩‍💻 Author
+
+**Avantika Gurav**  
+B.Tech Information Technology  
+Pune, India  
