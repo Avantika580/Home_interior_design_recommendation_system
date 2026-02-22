@@ -1,4 +1,3 @@
-# Categorized-Interior-Design-Style
 # Categorized Interior Design Style Recommendation System
 
 ## Problem Statement
@@ -74,7 +73,8 @@ cd Home_interior_design_recommendation_system
 pip install -r requirements.txt
 streamlit run app.py
 
-Future Enhancements
+
+## future Enhancements
 Add ML-based image similarity scoring
 Implement embedding-based recommendation
 Add user session memory
