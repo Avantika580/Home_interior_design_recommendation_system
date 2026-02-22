@@ -63,7 +63,7 @@ Recommendation Display
 - Supports 6 style categories with balanced dataset distribution  
 - Handles 420+ images efficiently  
 - Sub-second response time during local inference  
-- Designed for scalable category expansion  
+- Designed for scalable category expansion
 
 ## How to Run Locally
 
@@ -72,7 +72,7 @@ git clone https://github.com/Avantika580/Home_interior_design_recommendation_sys
 cd Home_interior_design_recommendation_system
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 
 ## future Enhancements
 Add ML-based image similarity scoring
@@ -81,7 +81,7 @@ Add user session memory
 Expand dataset to 1000+ images
 Introduce backend API layer (FastAPI)
 
-Author
+## Author
 
 Avantika Gurav
 B.Tech Information Technology
