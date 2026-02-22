@@ -1,0 +1,5 @@
+print(sorted(set(labels))[:20])
+print("Total styles:", len(set(labels)))
+
+
+
